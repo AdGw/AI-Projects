@@ -1,0 +1,16 @@
+klasyfikator_opisów/Flickr8k_text/data_all
+klasyfikator_opisów/Flickr8k_text/images
+klasyfikator_stron/.idea
+klasyfikator_stron/.ipynb_checkpoints
+klasyfikator_stron/__pycache__
+klasyfikator_stron/kategorie
+klasyfikator_stron/models
+klasyfikator_stron/models_features
+klasyfikator_stron/models_joblib
+klasyfikator_stron/models_transformer
+klasyfikator_stron/new_data
+klasyfikator_stron/przerobione
+klasyfikator_stron/słowniki
+glove_100d_pl.txt
+model_pl.h5
+tokenizer.pickle
